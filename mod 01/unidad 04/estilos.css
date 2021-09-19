@@ -1,0 +1,55 @@
+h1{
+   background-color: rgba(188, 143, 143, 0.692); 
+   font-family:'Montserrat light';
+   font-size: 28px;
+   text-align: left;
+   color:rgb(48, 43, 43); 
+   }
+
+h2{
+   font-family: 'Montserrat light';
+   font-size: 24px;
+   color:rgb(48, 43, 43); 
+  }
+
+h3{
+    font-family: 'Montserrat light';
+    font-size: 18px;
+    color:rgb(48, 43, 43); 
+   }
+
+h4{
+    font-family: 'Montserrat light';
+    font-size: 16px;
+    color:rgb(48, 43, 43); 
+  }
+
+p{
+  font-family: 'Montserrat light';  
+  font-size: 16px;
+ }
+
+.listas{
+        font-family: 'Montserrat light';
+        font-size: 16px; 
+        color: rgb(94, 92, 92)
+       } 
+
+.enlace{
+        font-family: 'Montserrat light';
+        font-style: italic;     
+        color:green
+       }
+
+.enlace:hover{
+              color:blue;
+              }
+
+.destacado{
+           font-weight: bolder;  
+           color:rgb(58, 56, 56)
+          }
+         
+#etiqueta_cuadro_apellido{
+                          font-weight: bolder;
+                         }
