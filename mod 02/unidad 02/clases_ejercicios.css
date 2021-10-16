@@ -1,0 +1,60 @@
+.contenedor_cajas{
+                  width: 420px;
+                  /* height: 420px; */
+                  border: 2px; 
+                  border-style: solid;
+                  display: flex;
+                  flex-direction: column;
+                  align-items: flex-end; 
+                  margin: 0 auto;
+                  vertical-align: middle;
+                  }
+
+.contenedor_cajas_horizontal{
+                    width: 420px;
+                    height: 420px;
+                    border: 2px; 
+                    border-style: solid;
+                    display:flex;
+                    flex-direction: row-reverse;
+                    align-items:center; 
+                    margin: 0 auto;
+                    
+                    }
+
+.contenedor_cajas_distribuidas{
+                        border: 2px; 
+                        border-style: solid;
+                        display:inline-flex;
+                        flex-direction: row;
+                        justify-content: space-between;
+                        width: 100%;
+                        }                    
+.caja_rojo{
+    width: 140px;
+    height: 140px;
+    background-color: red;
+    color: White;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center; 
+
+}
+.caja_azul{
+    width: 140px;
+    height: 140px;
+    background-color: blue;
+    color: White;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+}
+.caja_verde{
+    width: 140px;
+    height: 140px;
+    background-color: green;
+    color: White;
+    align-items: center; 
+    display: inline-flex;
+    justify-content: center;
+}
