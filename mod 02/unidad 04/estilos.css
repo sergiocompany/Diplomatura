@@ -1,0 +1,13 @@
+h2{
+    background-color: rgba(188, 143, 143, 0.692); 
+    font-family:'Montserrat light';
+    font-size: 28px;
+    text-align: left;
+    color:rgb(48, 43, 43); 
+    }
+h3{
+    border-bottom: 1px solid;   
+    font-family: 'Montserrat light';
+    font-size: 24px;
+    color:rgb(48, 43, 43); 
+    }    
